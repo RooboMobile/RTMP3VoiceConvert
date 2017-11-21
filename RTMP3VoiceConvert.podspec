@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
   s.name         = "RTMP3VoiceConvert"
 
-  s.version      = "1.0.0"
+  s.version="1.0.0"
 
   s.homepage      = 'https://github.com/RooboMobile/RTMP3VoiceConvert'
 
